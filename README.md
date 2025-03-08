@@ -1,26 +1,26 @@
 # Minecraft Procedurally Generated Parkour
 
-Dieses Datapack generiert automatisch Parkour-Strecken in Minecraft mithilfe des Befehls `function jumpandrun:generate_parcour`.
+This datapack automatically generates parkour tracks in Minecraft using the command `function jumpandrun:generate_parcour`.
 
 ## Installation
 
-1. **Datapack hinzufügen**  
-   Kopiere den Ordner des Datapacks in den Ordner deiner Welt:  
+1. add **Datapack**  
+   Copy the folder of the datapack into the folder of your world:  
 
 
-2. **Welt laden**  
-    Lade die Welt neu oder benutze den Befehl `/reload`, um das Datapack zu aktivieren.
+2. **Load world**  
+    Reload the world or use the command `/reload` to activate the datapack.
 
-## Nutzung
+## Usage
 
-1. **Generiere eine Parkour-Strecke**  
-    Führe folgenden Befehl aus:  
+1. **Generate a parkour track**  
+    Execute the following command:  
 
 
-2. **Anpassungen**  
-    Die Strecken können in der `.mcfunction`-Datei `generate_parcour.mcfunction` bearbeitet werden, um Blöcke, Abstände oder Herausforderungen anzupassen.
+2. **Customisations**  
+    The courses can be edited in the `.mcfunction` file `generate_parcour.mcfunction` to customise blocks, distances or challenges.
 
-## Hinweise
+## Notes
 
-- Dieses Datapack wurde für Minecraft Version 1.20+ entwickelt und es nutzt experimentelle Settings. Benutzung auf eigene Gefahr!
-- Auch wenn das Datapack vielleicht als Inkompatibel angezeigt wird kann es funktionieren.
+- This datapack was developed for Minecraft version 1.20+ and uses experimental settings. Use at your own risk!
+- Even if the datapack is displayed as incompatible, it may work.
