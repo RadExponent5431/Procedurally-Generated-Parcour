@@ -1,0 +1,78 @@
+{
+    "name": "jumpandrun:jumps",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 40,
+            "element": {
+                "location": "minecraft:jump",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 40,
+            "element": {
+                "location": "minecraft:jump2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 40,
+            "element": {
+                "location": "minecraft:jump3",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:jump4",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:jump5",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 70,
+            "element": {
+                "location": "minecraft:jump6",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 60,
+            "element": {
+                "location": "minecraft:island",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 60,
+            "element": {
+                "location": "minecraft:island2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "jumpandrun:stone_jumps",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:stone_jump",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:stone_jump2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:stone_jump3",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:stone_jump4",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:stone_jump5",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

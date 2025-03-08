@@ -1,0 +1,114 @@
+{
+    "name": "jumpandrun:wooden_jumps",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump3",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump4",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump5",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump6",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump7",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump8",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump9",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump10",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump11",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 50,
+            "element": {
+                "location": "minecraft:wooden_jump12",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}
