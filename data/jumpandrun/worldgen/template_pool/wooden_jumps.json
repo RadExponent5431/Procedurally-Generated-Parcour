@@ -5,7 +5,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump",
+                "location": "jumpandrun:wooden_jump",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -14,7 +14,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump2",
+                "location": "jumpandrun:wooden_jump2",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -23,7 +23,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump3",
+                "location": "jumpandrun:wooden_jump3",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -32,7 +32,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump4",
+                "location": "jumpandrun:wooden_jump4",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -41,7 +41,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump5",
+                "location": "jumpandrun:wooden_jump5",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -50,7 +50,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump6",
+                "location": "jumpandrun:wooden_jump6",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -59,7 +59,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump7",
+                "location": "jumpandrun:wooden_jump7",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -68,7 +68,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump8",
+                "location": "jumpandrun:wooden_jump8",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -77,7 +77,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump9",
+                "location": "jumpandrun:wooden_jump9",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -86,7 +86,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump10",
+                "location": "jumpandrun:wooden_jump10",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -95,7 +95,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump11",
+                "location": "jumpandrun:wooden_jump11",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
@@ -104,7 +104,7 @@
         {
             "weight": 50,
             "element": {
-                "location": "minecraft:wooden_jump12",
+                "location": "jumpandrun:wooden_jump12",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
